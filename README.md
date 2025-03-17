@@ -2,7 +2,7 @@
 
 **`Desenvolvedora Front-End`**
 
-Me chamo Nicoly Cunha, tenho 20 anos. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Cruzeiro do Sul. 
+Me chamo Nicoly, tenho 20 anos. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Cruzeiro do Sul. 
 
 
 ### 🤖 Linguagens e Tecnologias
